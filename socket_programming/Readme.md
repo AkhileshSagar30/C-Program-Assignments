@@ -10,5 +10,5 @@ Syntax: ./server_name port_num
 Eg: ./server 2999
 
 d) Client program should receive the server’s IP address, port number and the filename as command-line argument.
-Syntax: ./client_name ip_address_of_server port_num file_name
+Syntax: ./client_name ip_address_of_server port_num file_name.
 Eg: ./client localhost 2999 hello.c
